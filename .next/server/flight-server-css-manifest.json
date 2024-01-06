@@ -1,0 +1,14 @@
+{
+  "cssImports": {
+    "/Users/yashenderdahiya/yashender/Post College/1st Year/Self Dev/SignUpApp/src/app/layout.tsx": [
+      "/Users/yashenderdahiya/yashender/Post College/1st Year/Self Dev/SignUpApp/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "/Users/yashenderdahiya/yashender/Post College/1st Year/Self Dev/SignUpApp/src/app/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/yashenderdahiya/yashender/Post College/1st Year/Self Dev/SignUpApp/src/app/page": [
+      "/Users/yashenderdahiya/yashender/Post College/1st Year/Self Dev/SignUpApp/src/app/globals.css",
+      "/Users/yashenderdahiya/yashender/Post College/1st Year/Self Dev/SignUpApp/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  }
+}
